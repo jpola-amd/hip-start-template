@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/a.exe",
+            "args": [],
+            "environment": [],
+            //"args": ["arg1", "arg2"],
+            //"environment": [{ "name": "config", "value": "Debug" }],
+
+            "console": "integratedTerminal"
+        },
+    ]
+}
